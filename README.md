@@ -1,2 +1,2 @@
 # Virtual-Reality-Project
-Car driving simulator
+Car driving simulator in Vizard 5 (python script)
